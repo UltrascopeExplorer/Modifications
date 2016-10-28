@@ -1,8 +1,16 @@
 # Modifications
-Alterations and modifications for the Ultrascope Explorer
+Alterations and modifications for the Open Space Agency's Ultrascope Explorer (main/ normal project files and updates are being housed on Wevolver: https://www.wevolver.com/osa.projects/ultrascope/main/description/).  More about the OSA can be found on their website: http://www.openspaceagency.com
 
-The Ultrascope Explorer project is being housed on Wevolver: https://www.wevolver.com/osa.projects/ultrascope/main/description/.  This repository is just for non-standard modifications/ additions/ changes.
+This GitHub repository is just for non-standard modifications/ additions/ changes.
 
-All the normal desing files are public at https://www.onshape.com/
+All the normal cad desing files are public at https://www.onshape.com
+
+Frequent updates are posted to Twitter: https://twitter.com/OSHUltrascope
+
+Less frequent, but more in-depth updates are posted to Tumblr: http://oshultrascope.tumblr.com
+
+Build/ parts photos are on Instagram: https://www.instagram.com/oshultrascope
 
 If you have anything you'd like to contribute, please email matthew.nelson@ultrascope.net
+
+**Last updated on 10/28/16 **
