@@ -13,4 +13,4 @@ Build/ parts photos are on Instagram: https://www.instagram.com/oshultrascope
 
 If you have anything you'd like to contribute, please email matthew.nelson@ultrascope.net
 
-**Last updated on 10/4/17 **
+**Last updated on 10/23/18 **
